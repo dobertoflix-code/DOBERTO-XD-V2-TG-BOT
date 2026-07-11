@@ -1,0 +1,6 @@
+{
+  "bot": {
+    "autoStatusReact": true,
+    "antiswview": true
+  }
+}
